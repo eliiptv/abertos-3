@@ -1,75 +1,75 @@
 #EXTM3U
 #EXTINF:-1 tvg-id="BAND" tvg-name="BAND" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Abertos",BAND
-http://streamtv.com.br:80/malek/malek/1661
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1661
 #EXTINF:-1 tvg-id="BAND HD" tvg-name="BAND HD" tvg-logo="http://printv.esy.es/server/Band.png" group-title="Abertos",BAND HD
-http://streamtv.com.br:80/malek/malek/228
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/228
 #EXTINF:-1 tvg-id="BOA VONTADE***" tvg-name="BOA VONTADE" tvg-logo="http://printv.esy.es/server/Boa%20Vontade%20TV.png" group-title="Abertos",BOA VONTADE
-http://streamtv.com.br:80/malek/malek/1657
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1657
 #EXTINF:-1 tvg-id="FUTURA***" tvg-name="FUTURA" tvg-logo="http://printv.esy.es/server/Futura.png" group-title="Abertos",FUTURA
-http://streamtv.com.br:80/malek/malek/1620
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1620
 #EXTINF:-1 tvg-id="GLOBO BRASILIA-[FONTE 2]" tvg-name="GLOBO BRASILIA" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Abertos",GLOBO BRASILIA
-http://streamtv.com.br:80/malek/malek/1618
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1618
 #EXTINF:-1 tvg-id="GLOBO BRASILIA ***" tvg-name="GLOBO BRASILIA HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Abertos",GLOBO BRASILIA HD
-http://streamtv.com.br:80/malek/malek/723
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/723
 #EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS HD-[FONTE 2]" tvg-name="GLOBO EPTV CAMPINAS" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="Abertos",GLOBO EPTV CAMPINAS
-http://streamtv.com.br:80/malek/malek/1617
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1617
 #EXTINF:-1 tvg-id="GLOBO EPTV CAMPINAS-[FONTE 2]" tvg-name="GLOBO EPTV CAMPINAS HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="Abertos",GLOBO EPTV CAMPINAS HD
-http://streamtv.com.br:80/malek/malek/1675
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1675
 #EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO-[FONTE 2]" tvg-name="GLOBO EPTV RIBEIRÃO PRETO HD" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="Abertos",GLOBO EPTV RIBEIRÃO PRETO HD
-http://streamtv.com.br:80/malek/malek/1674
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1674
 #EXTINF:-1 tvg-id="GLOBO EPTV RIBEIRAO PRETO-[FONTE 2]" tvg-name="GLOBO EPTV RIBEIRÃO PRETO" tvg-logo="https://upload.wikimedia.org/wikipedia/pt/thumb/6/67/EPTV.png/200px-EPTV.png" group-title="Abertos",GLOBO EPTV RIBEIRÃO PRETO
-http://streamtv.com.br:80/malek/malek/1616
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1616
 #EXTINF:-1 tvg-id="GLOBO MINAS***" tvg-name="GLOBO MINAS" tvg-logo="http://printv.esy.es/server/TV%20Integra%C3%A7%C3%A3o.png" group-title="Abertos",GLOBO MINAS
-http://streamtv.com.br:80/malek/malek/1615
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1615
 #EXTINF:-1 tvg-id="GLOBO MINAS***" tvg-name="GLOBO MINAS HD" tvg-logo="http://printv.esy.es/server/TV%20Integra%C3%A7%C3%A3o.png" group-title="Abertos",GLOBO MINAS HD
-http://streamtv.com.br:80/malek/malek/1673
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1673
 #EXTINF:-1 tvg-id="GLOBO NORDESTE***" tvg-name="GLOBO NORDESTE" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Abertos",GLOBO NORDESTE
-http://streamtv.com.br:80/malek/malek/1613
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1613
 #EXTINF:-1 tvg-id="GLOBO NORDESTE HD***" tvg-name="GLOBO NORDESTE HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Abertos",GLOBO NORDESTE HD
-http://streamtv.com.br:80/malek/malek/1671
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1671
 #EXTINF:-1 tvg-id="GLOBO NSC TV FLORIANOPOLIS***" tvg-name="GLOBO NSC TV" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Abertos",GLOBO NSC TV
-http://streamtv.com.br:80/malek/malek/1677
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1677
 #EXTINF:-1 tvg-id="GLOBO NSC TV HD FLORIANOPOLIS***" tvg-name="GLOBO NSC TV HD" tvg-logo="http://printv.esy.es/server/NSC%20TV.png" group-title="Abertos",GLOBO NSC TV HD
-http://streamtv.com.br:80/malek/malek/1672
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1672
 #EXTINF:-1 tvg-id="GLOBO RBS TV PORTO ALEGRE***" tvg-name="GLOBO RBS" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Abertos",GLOBO RBS
-http://streamtv.com.br:80/malek/malek/1612
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1612
 #EXTINF:-1 tvg-id="GLOBO RBS HD TV PORTO ALEGRE***" tvg-name="GLOBO RBS HD" tvg-logo="http://printv.esy.es/server/RBS%20TV.png" group-title="Abertos",GLOBO RBS HD
-http://streamtv.com.br:80/malek/malek/182
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/182
 #EXTINF:-1 tvg-id="GLOBO RJ***" tvg-name="GLOBO RJ" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Abertos",GLOBO RJ
-http://streamtv.com.br:80/malek/malek/1611
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1611
 #EXTINF:-1 tvg-id="GLOBO RJ HD***" tvg-name="GLOBO RJ HD" tvg-logo="http://printv.esy.es/server/TV%20Rio%20Sul.png" group-title="Abertos",GLOBO RJ HD
-http://streamtv.com.br:80/malek/malek/181
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/181
 #EXTINF:-1 tvg-id="GLOBO RPC CURITIBA HD***" tvg-name="GLOBO RPC CURITIBA" tvg-logo="http://printv.esy.es/server/RPC%20TV.png" group-title="Abertos",GLOBO RPC CURITIBA
-http://streamtv.com.br:80/malek/malek/1610
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1610
 #EXTINF:-1 tvg-id="GLOBO RPC CURITIBA HD***" tvg-name="GLOBO RPC CURITIBA HD" tvg-logo="http://printv.esy.es/server/RPC%20TV.png" group-title="Abertos",GLOBO RPC CURITIBA HD
-http://streamtv.com.br:80/malek/malek/1670
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1670
 #EXTINF:-1 tvg-id="GLOBO TV TEM S. J. DO RIO PRETO***" tvg-name="GLOBO S. J. DO RIO PRETO" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Abertos",GLOBO S. J. DO RIO PRETO
-http://streamtv.com.br:80/malek/malek/1605
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1605
 #EXTINF:-1 tvg-id="GLOBO TV TEM S. J. DO RIO PRETO***" tvg-name="GLOBO S. J. DO RIO PRETO HD" tvg-logo="http://printv.esy.es/server/TV%20Tem%20Bauru.png" group-title="Abertos",GLOBO S. J. DO RIO PRETO HD
-http://streamtv.com.br:80/malek/malek/1049
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1049
 #EXTINF:-1 tvg-id="GLOBO RJ***" tvg-name="GLOBO SP" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Abertos",GLOBO SP
-http://streamtv.com.br:80/malek/malek/1609
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1609
 #EXTINF:-1 tvg-id="GLOBO SP HD***" tvg-name="GLOBO SP HD" tvg-logo="https://logodownload.org/wp-content/uploads/2013/12/globo-logo.png" group-title="Abertos",GLOBO SP HD
-http://streamtv.com.br:80/malek/malek/275
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/275
 #EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA***" tvg-name="GLOBO TV ANHANGUERA" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Abertos",GLOBO TV ANHANGUERA
-http://streamtv.com.br:80/malek/malek/1608
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1608
 #EXTINF:-1 tvg-id="GLOBO TV ANHANGUERA HD***" tvg-name="GLOBO TV ANHANGUERA HD" tvg-logo="http://printv.esy.es/server/TV%20Anhanguera.png" group-title="Abertos",GLOBO TV ANHANGUERA HD
-http://streamtv.com.br:80/malek/malek/1669
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1669
 #EXTINF:-1 tvg-id="RECORD" tvg-name="RECORD" tvg-logo="http://printv.esy.es/server/Record%20HD.png" group-title="Abertos",RECORD
-http://streamtv.com.br:80/malek/malek/1565
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1565
 #EXTINF:-1 tvg-id="RECORD HD" tvg-name="RECORD HD" tvg-logo="http://printv.esy.es/server/Record%20HD.png" group-title="Abertos",RECORD HD
-http://streamtv.com.br:80/malek/malek/141
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/141
 #EXTINF:-1 tvg-id="RECORD SP***" tvg-name="SBT SERRA DOURADA FHD" tvg-logo="http://printv.esy.es/server/Record%20HD.png" group-title="Abertos",SBT SERRA DOURADA FHD
-http://streamtv.com.br:80/malek/malek/1563
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1563
 #EXTINF:-1 tvg-id="" tvg-name="RECORD SP" tvg-logo="http://printv.esy.es/server/Rede%20Brasil.png" group-title="Abertos",RECORD SP
-http://streamtv.com.br:80/malek/malek/1562
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1562
 #EXTINF:-1 tvg-id="REDE TV***" tvg-name="REDE TV" tvg-logo="http://www.streamtv.com.br:8090/logo/redetv.png" group-title="Abertos",REDE TV
-http://streamtv.com.br:80/malek/malek/1561
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1561
 #EXTINF:-1 tvg-id="REDE TV***" tvg-name="REDE TV HD" tvg-logo="http://printv.esy.es/server/Rede%20Brasil.png" group-title="Abertos",REDE TV HD
-http://streamtv.com.br:80/malek/malek/139
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/139
 #EXTINF:-1 tvg-id="SBT***" tvg-name="SBT" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Abertos",SBT
-http://streamtv.com.br:80/malek/malek/1559
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1559
 #EXTINF:-1 tvg-id="SBT HD***" tvg-name="SBT HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Abertos",SBT HD
-http://streamtv.com.br:80/malek/malek/138
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/138
 #EXTINF:-1 tvg-id="SBT SP INTERIOR***" tvg-name="SBT RS HD" tvg-logo="http://printv.esy.es/server/SBT%20HD.png" group-title="Abertos",SBT RS HD
-http://streamtv.com.br:80/malek/malek/1558
+plugin://plugin.video.f4mTester/?name=elista&streamtype=TSDOWNLOADER&amp;url=http://streamtv.com.br:80/malek/malek/1558
